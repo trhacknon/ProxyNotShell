@@ -4,6 +4,9 @@
 2. Run shodan-query.py to grab results (You can change the query in the file)
 3. Run check.py to check if Outlook servers are vulnerable to ProxyNotShell
 
+## Mass Scanner
+Trhacknon mass scanner(https://github.com/trhacknon/CVE-2022-41082-MASS-SCANNER)
+
 Modded by Trhacknon
 
 # List of Dorks
