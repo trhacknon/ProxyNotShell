@@ -3,7 +3,7 @@ import shodan
 
 requests.packages.urllib3.disable_warnings()
 
-API_KEY = "YOUR_API_KEY"
+API_KEY = "YOUR_APIKEY"
 
 SEARCH_FOR = 'http.favicon.hash:1768726119'
 f = open("urls.txt", "a")
