@@ -10,6 +10,10 @@ Trhacknon mass scanner(https://github.com/trhacknon/CVE-2022-41082-MASS-SCANNER)
 ## Exploit
 [!] Usage: python3 CVE-2022-41040.py -u https://mail.example.com -c example.burpcollaborator.net 
 
+## Modules MSF
+METASPLOIT framework (https://github.com/trhacknon/CVE-2022-41040-metasploit-ProxyNotShell)
+
+
 Modded by Trhacknon
 
 # List of Dorks
