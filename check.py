@@ -21,4 +21,4 @@ if __name__ == '__main__':
             try:
                 check(line.strip())
             except Exception as e:
-                print("[-] {} - Could not connect.".format(line.strip()))
+                print("[-] {} - Couldnt connect.".format(line.strip()))
